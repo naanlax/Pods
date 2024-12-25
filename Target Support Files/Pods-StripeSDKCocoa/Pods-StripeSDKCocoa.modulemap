@@ -1,0 +1,6 @@
+framework module Pods_StripeSDKCocoa {
+  umbrella header "Pods-StripeSDKCocoa-umbrella.h"
+
+  export *
+  module * { export * }
+}
